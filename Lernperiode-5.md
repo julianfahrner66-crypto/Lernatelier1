@@ -37,11 +37,12 @@ mich zuerst über kleine Ideen für mein Projekt informiert. Ich musste zuerst w
 ### Planung 21.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] SnakeGame Projekt nochmals anschauen
-- [ ] Das Spiel und vorallem das Aussehen nochmals verbessern
-- [ ] Für die Freifachkurse anmelden und schonmal ein bisschen reinstarten
+- [X] SnakeGame Projekt nochmals anschauen
+- [X] Das Spiel und vorallem das Aussehen nochmals verbessern
+- [X] Für die Freifachkurse anmelden und schonmal ein bisschen reinstarten
 
 (Heute habe ich... (50-100 Wörter))
+mein SnakeGame Projekt wieder aufgegriffen und noch ein bisschen verbessert. Ich habe mich wieder in den Cisco Python Kurs wieder eingearbeitet.
 
 
 ### Planung 28.08.2026
