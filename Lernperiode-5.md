@@ -59,8 +59,8 @@ an meinem Cisco Kurs von Python weitergearbeitet und bald mit Modul 1 fertig. Ic
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Python Cisco Kurs Modul 2 fertig machen
-- [ ] 
-- [ ] 
+- [ ] Linux Kurs anfangen
+- [ ] CyberSecurity Kurs anfangen
 
 (Heute habe ich... (50-100 Wörter))
 
