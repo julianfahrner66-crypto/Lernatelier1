@@ -48,18 +48,19 @@ mein SnakeGame Projekt wieder aufgegriffen und noch ein bisschen verbessert. Ich
 ### Planung 28.08.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] SnakeGame Projekt noch abschliessen
-- [ ] Weiter am Freifachkurs weiterarbeiten
+- [X] SnakeGame Projekt noch abschliessen
+- [X] Weiter am Freifachkurs weiterarbeiten
 - [ ] Beim Freifachkurs Linux noch starten und anschauen
 
 (Heute habe ich... (50-100 Wörter))
+an meinem Cisco Kurs von Python weitergearbeitet und bald mit Modul 1 fertig. Ich habe die Karte und Geschwindigkeit von meinem Snake Game abgeändert und verbessert. Das Spiel läuft jetzt viel besser und hat weniger Probleme beim spielen.
 
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Python Cisco Kurs Modul 2 fertig machen
+- [ ] 
+- [ ] 
 
 (Heute habe ich... (50-100 Wörter))
 
