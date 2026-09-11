@@ -58,7 +58,7 @@ an meinem Cisco Kurs von Python weitergearbeitet und bald mit Modul 1 fertig. Ic
 ### Planung 04.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Python Cisco Kurs Modul 2 fertig machen
+- [X] Python Cisco Kurs Modul 2 fertig machen
 - [X] Beim Freifachkurs jetzt noch endgültig starten
 - [X] Modul 1 Test nachholen und bestehen
 
@@ -69,17 +69,18 @@ beim Freifachkurs Linux angefangen und geschaut, ob es mir gefällt. Heute habe 
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] Python Cisco Kurs bis 3.2 fertig machen
-- [ ] CyberSecurity die ersten 2 Unterkapitel machen
-- [ ] Bei CyberSecurity mindestens 5 neue Sachen lernen
+- [X] CyberSecurity die ersten 2 Unterkapitel machen
+- [X] Python Modul 2 Test machen
 
 (Heute habe ich... (50-100 Wörter))
+Heute habe ich das ganze Modul 2 in Python fertig gemacht und dann noch den Test abgeschlossen. Beim Cybersecurity Kurs habe ich die ersten 4 Aufgaben erledigt schon.
 
 ### Planung 18.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] CyberSecurity Kurs bis Aufgabe 8 machen
+- [ ] In Linux so wie ein Video als Hintergrund machen und alles ein bisschen schöner machen mit Widgets
+- [ ] Bei Python neues Projekt anfangen, wahrscheinlich ein Spiel
 
 (Heute habe ich... (50-100 Wörter))
 
