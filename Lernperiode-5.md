@@ -79,17 +79,17 @@ Heute habe ich das ganze Modul 2 in Python fertig gemacht und dann noch den Test
 3 bis 5 klar messbare Arbeitspakete.
 
 - [ ] CyberSecurity Kurs bis Aufgabe 8 machen
-- [ ] In Linux so wie ein Video als Hintergrund machen und alles ein bisschen schöner machen mit Widgets
+- [X] Unity Projekt Terrain fertig machen
 - [ ] Bei Python neues Projekt anfangen, wahrscheinlich ein Spiel
 
 (Heute habe ich... (50-100 Wörter))
-
+bei meinem Spiel die Welt und die Graphik abgeändert, sodass es nebliger aussieht und dunkler. Auch habe ich den Code für das Bike geschrieben. Heute habe ich auch noch an meinem Cisco Kurs gearbeitet.
 ### Planung 25.09.2026
 3 bis 5 klar messbare Arbeitspakete.
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [X] Viertes AP
+- [ ] Kamera im Bikerun Unity game richtig anfügen, damit es immer mitgeht
+- [ ] Code richtig in das Projekt anweihen
+- [ ] Die Räder und das Bike testen, ob es funktioniert
 
 (Heute habe ich... (50-100 Wörter))
 
