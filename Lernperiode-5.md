@@ -92,6 +92,7 @@ bei meinem Spiel die Welt und die Graphik abgeändert, sodass es nebliger aussie
 - [ ] Die Räder und das Bike testen, ob es funktioniert
 
 (Heute habe ich... (50-100 Wörter))
-
+Heute habe ich an meinem Unity Spiel weitergearbeitet und dabei meine C#-Kenntnisse praktisch angewendet. Um messbare Fortschritte zu erzielen, habe ich ein neues Skript für das Movement geschrieben, wodurch sich die Spielfigur nun viel flüssiger bewegen lässt. Zudem habe ich die Kollisionserkennung repariert, damit man nicht mehr in den Wänden stecken bleibt, und drei neue Hindernisse im Level platziert. Zum Schluss habe ich das Spiel ausgiebig getestet.
 ## Lernperiode Reflexion
 (In dieser Lernperiode habe ich... (100-150 Wörter))
+In dieser Lernperiode habe ich intensiv an meinen Zielen gearbeitet und mich stark verbessert. Zu Beginn der Periode habe ich ein Snake Game programmiert, welches ich anschliessend bezüglich der Karte, der Geschwindigkeit und dem Aussehen weiter optimiert habe. Parallel dazu habe ich viel Zeit in den Cisco Python Kurs investiert. Dort konnte ich den Modultest für das erste Modul direkt beim ersten Versuch erfolgreich bestehen und bin auch im zweiten Modul sehr weit gekommen. Zudem habe ich in den Linux-Freifachkurs reingeschaut und erste Grundlagen gelernt. Gegen Ende habe ich mich auf mein Unity Spiel in C# konzentriert. Ich konnte mein Ziel, selbstständiger zu arbeiten und meine GitHub Repos besser zu pflegen, gut umsetzen. Ich bin zuversichtlich, dass mir diese selbstständige Arbeitsweise helfen wird, meine Noten in Zukunft auf den gewünschten 5.5er Schnitt zu bringen.
