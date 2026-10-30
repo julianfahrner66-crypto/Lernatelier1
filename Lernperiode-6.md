@@ -81,14 +81,8 @@ Beispiele:
 
 
 #### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
 
-...Ihr Text...
+Ich konnte 2 Unterkapitel fertig machen, auch konnte ich 16 Unternehmen ohne Website raussuchen und sie anschreiben. Auch habe ich noch 5 Lektionen bei edclub fertig gemacht.
 
 
 ### Planung 6.11.2026
@@ -102,9 +96,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] 3 Unterkapitel Cisco Kurs Python
+- [ ] Website für mich erstellen, wo ich etwas verkaufen werde.
+- [ ] Weitere 10 Unternehmen ohne Website raussuchen und auf Whattsapp anschreiben
 
 
 #### Tagesreflexion
