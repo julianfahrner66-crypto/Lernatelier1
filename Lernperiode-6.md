@@ -53,6 +53,7 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 -->
 
 -Cisco Kurs fertig machen von Python
+-Pythonscript machen, das Dateiduplikate raussucht und man diese dann löschen kann und somit seine Ordner sauberer machen kann.
 
 ## Tagesplanungen
 <!--
@@ -86,46 +87,22 @@ Ich konnte 2 Unterkapitel fertig machen, auch konnte ich 16 Unternehmen ohne Web
 
 
 ### Planung 6.11.2026
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
-
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
 
 - [ ] 3 Unterkapitel Cisco Kurs Python
 - [ ] Website für mich erstellen, wo ich etwas verkaufen werde.
-- [ ] Weitere 10 Unternehmen ohne Website raussuchen und auf Whattsapp anschreiben
+- [ ] Neues Projekt für Python raussuchen und schonmal anfangen.
 
 
 #### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
 
-...Ihr Text...
+Heute habe ich an meinem Cisco Python Kurs weitergearbeitet und einen Duplikate Finder mit Python entwickelt. Das Programm durchsucht einen ausgewählten Ordner inklusive Unterordner und vergleicht Dateien anhand ihres Inhalts. Dafür habe ich mich mit Pfaden, Schleifen, Dictionaries und Hashfunktionen beschäftigt. Ausserdem habe ich Fehler bei der Einrückung und Fehlerbehandlung korrigiert. Dabei habe ich gelernt, automatische Codevorschläge kritisch zu prüfen und besser zu verstehen, wie die einzelnen Programmteile zusammenarbeiten.
 
 
 ### Planung 13.11.2026
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
 
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Duplikate Finder mit verschiedenen Beispieldateien testen.
+- [ ] Ausgabe um Originaldateien und Dateigrössen erweitern.
+- [ ] Cisco Python Kurs weiterbearbeiten und 3.2 fertigstellen.
 
 
 #### Tagesreflexion
