@@ -1,4 +1,4 @@
-# Lern-Periode NR
+# Lern-Periode 6
 <!--
 **ANLEITUNG**
 
