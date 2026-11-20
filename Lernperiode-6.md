@@ -98,7 +98,7 @@ Ich konnte 2 Unterkapitel fertig machen, auch konnte ich 16 Unternehmen ohne Web
 Heute habe ich an meinem Cisco Python Kurs weitergearbeitet und einen Duplikate Finder mit Python entwickelt. Das Programm durchsucht einen ausgewählten Ordner inklusive Unterordner und vergleicht Dateien anhand ihres Inhalts. Dafür habe ich mich mit Pfaden, Schleifen, Dictionaries und Hashfunktionen beschäftigt. Ausserdem habe ich Fehler bei der Einrückung und Fehlerbehandlung korrigiert. Dabei habe ich gelernt, automatische Codevorschläge kritisch zu prüfen und besser zu verstehen, wie die einzelnen Programmteile zusammenarbeiten.
 
 
-### Planung 13.11.2026
+### Planung 20.11.2026
 
 - [ ] Duplikate Finder mit verschiedenen Beispieldateien testen.
 - [ ] Ausgabe um Originaldateien und Dateigrössen erweitern.
@@ -106,41 +106,7 @@ Heute habe ich an meinem Cisco Python Kurs weitergearbeitet und einen Duplikate 
 
 
 #### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
-
-...Ihr Text...
-
-
-### Planung 20.11.2026
-<!--
-Planen Sie 3 bis 5 **klar messbare** Arbeitspakete.
-Umfang: ca. 30 - 60 Minuten je Arbeitspaket
-Markieren Sie beendete Arbeitspakete mit einem x.
-
-Beispiele:
-- [ ] noch nicht erledigte Aufgabe
-- [x] erledigte Aufgabe
--->
-
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-
-
-#### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
-
-...Ihr Text...
+Heute habe ich im Cisco Python Essentials Kurs bei Modul 3 weitergemacht und while Schleifen geübt, unter anderem mit dem Lab Guess the secret number. Daneben habe ich an meiner Vokabel Lernapp gearbeitet, die die Wörter aus einer Textdatei liest, mischt und abfragt. Man kann die Richtung wählen, falsche Wörter kommen nochmals dran und am Schluss sieht man, wie viele richtig waren und wie viele Versuche man gebraucht hat.
 
 ### Planung 27.11.2026
 <!--
@@ -153,9 +119,9 @@ Beispiele:
 - [x] erledigte Aufgabe
 -->
 
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
-- [ ] ...Ihr Text...
+- [ ] Im Cisco Kurs Section 3.2 fertig machen und das Section Quiz erledigen
+- [ ] Die Lernapp so erweitern, dass sie falsch beantwortete Wörter in einer eigenen Datei speichert, damit man sie später gezielt üben kann.
+- [ ] In der Lernapp eine Auswertung mit Prozentzahl einbauen und mit mindestens 20 Vokabeln testen.
 
 
 #### Tagesreflexion
