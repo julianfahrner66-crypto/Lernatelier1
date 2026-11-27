@@ -125,15 +125,8 @@ Beispiele:
 
 
 #### Tagesreflexion
-<!--
-Mögliche Themen: Was lief erstaunlich gut/schlecht? Wo ging der Plan nicht auf
-und wieso? Was konnten Sie daraus für Ihr Vorgehen lernen?
-Nicht wiederholen, was die Checkboxen schon aussagen.
-Umfang: 50 - 100 Wörter (ungefähr 3 - 6 Sätze)
--->
 
-...Ihr Text...
-
+Heute habe ich im Cisco Python Kurs die Section 3.2 fertig gemacht und das Quiz gelöst. Danach habe ich an meiner Vokabel-Lernapp weitergearbeitet. Jetzt werden falsche Wörter in einer eigenen Datei gespeichert, damit man sie später nochmals üben kann. Am Schluss zeigt die App auch an, wie viel Prozent richtig waren. Ich habe die App mit über 20 Vokabeln getestet und sie hat gut funktioniert.
 
 ### Planung 04.12.2026
 <!--
